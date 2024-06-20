@@ -13,11 +13,11 @@ function App() {
             </li>
 
             <li className='underline py-5'>
-              <a href={"https://www.notion.so/Notes-d932c513f98f44e49beee282ddb980d8"}>Notes for courses I'm taking at school</a>
+              <a href={"https://mirror-quart-843.notion.site/Notes-d932c513f98f44e49beee282ddb980d8"}>Notes for courses I'm taking at school</a>
             </li>
 
             <li className='underline'>
-              <a href={"https://www.notion.so/Notes-for-personal-projects-defd2dbbc80949619875855209d66647"}>Notes on random projects I'm working on</a>
+              <a href={"https://mirror-quart-843.notion.site/Notes-for-personal-projects-defd2dbbc80949619875855209d66647?pvs=4"}>Notes on random projects I'm working on</a>
             </li>
           </ul>
           
